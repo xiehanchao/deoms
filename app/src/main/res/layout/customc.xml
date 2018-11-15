@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/px96"
+        android:background="#ffffff">
+
+        <com.example.xieyaoyan.myapplication.SearchDemo
+
+            android:id="@+id/search"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginBottom="@dimen/px14"
+            android:layout_marginLeft="@dimen/px26"
+            android:layout_marginRight="@dimen/px26"
+            android:layout_marginTop="@dimen/px14"
+            android:background="#ffffff"
+            android:drawableLeft="@drawable/search_g"
+            android:hint="搜索"
+            android:textColor="@color/c999999"
+            android:textColorHint="@color/c999999"
+            android:textSize="@dimen/px28">
+
+        </com.example.xieyaoyan.myapplication.SearchDemo>
+
+    </RelativeLayout>
+
+</LinearLayout>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="sp_12">12sp</dimen>
+    <dimen name="px96">50dp</dimen>
+    <dimen name="px14">14px</dimen>
+    <dimen name="px26">26px</dimen>
+    <dimen name="px28">28px</dimen>
+</resources>
