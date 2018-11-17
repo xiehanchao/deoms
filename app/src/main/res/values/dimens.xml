@@ -4,5 +4,5 @@
     <dimen name="px96">50dp</dimen>
     <dimen name="px14">14px</dimen>
     <dimen name="px26">26px</dimen>
-    <dimen name="px28">28px</dimen>
+    <dimen name="px28">28sp</dimen>
 </resources>
